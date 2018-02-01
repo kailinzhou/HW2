@@ -1,0 +1,16 @@
+body  {background-color:#FFF38E; color:#E8CCBF; }
+
+     a:link, a:visited{color:#E8CCBF;text-decoration:none; }
+     a:hover {
+		 text-decoration:underline;
+		 font-weight:bold; 
+		 font-size:300%;}
+	 h1{color:#CDFF84;}
+	 /*this is where your  content would go */
+	 .content{
+		 background-color:lightgray;
+		 width:70%;
+		 margin: 0 auto; /* center the div*/
+		 text-align:left;
+		 padding:20px;
+	 }
