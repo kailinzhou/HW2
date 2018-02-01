@@ -1,11 +1,11 @@
-body  {background-color:#FFF38E; color:#E8CCBF; }
+body  {background-color:yellow; color:blue; }
 
-     a:link, a:visited{color:#E8CCBF;text-decoration:none; }
+     a:link, a:visited{color:red;text-decoration:none; }
      a:hover {
 		 text-decoration:underline;
 		 font-weight:bold; 
 		 font-size:300%;}
-	 h1{color:#CDFF84;}
+	 h1{color:purple;}
 	 /*this is where your  content would go */
 	 .content{
 		 background-color:lightgray;
